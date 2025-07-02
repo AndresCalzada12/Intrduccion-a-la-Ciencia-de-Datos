@@ -65,3 +65,72 @@ Interesado en Ciencia de Datos aplicada a Salud y Medicina
 ##  Notas finales
 
 Este repositorio representa mi proceso de aprendizaje y consolidación de conocimientos en ciencia de datos. Puedes revisar cada notebook de forma individual para ver los enfoques que utilicé en diferentes contextos analíticos.
+
+# ------------------ 
+
+#  Introduction to Data Science
+
+This repository contains all the exercises, notebooks, and projects I developed during my Data Science training as part of my master's thesis. It covers everything from data cleaning to machine learning models, applying both basic and advanced techniques in data analysis and visualization.
+
+---
+
+##  Purpose
+
+This repository is a structured and professional showcase of the skills I acquired during a full year of Data Science coursework. It serves as a portfolio for job applications in areas related to **data analysis, machine learning, bioinformatics, or healthcare data science**.
+
+---
+
+##  Technologies and Libraries Used
+
+- Python (Jupyter Notebooks)
+- Pandas, Numpy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Statsmodels
+- Plotly
+- K-means, PCA, Classification Models, Regressions
+
+---
+
+##  Repository Structure
+
+| Folder or Notebook | Description |
+|--------------------|-------------|
+| `1_Calidad_y_Limpieza_Datos.ipynb` | Data cleaning and transformation. |
+| `2_Visualizacion_Exploratoria.ipynb` | Exploratory visualization with Matplotlib and Seaborn. |
+| `3_Estadistica_inferencial.ipynb` | Statistical inference and hypothesis testing. |
+| `4_Modelos_de_Regresion.ipynb` | Different types of regression models. |
+| `5_Analisis_PCA_Clustering.ipynb` | Dimensionality reduction and unsupervised clustering. |
+| `6_Modelos_de_Clasificacion.ipynb` | Logistic regression, decision trees, k-NN, etc. |
+| `7_Proyecto_Final.ipynb` | Final project integrating all previous techniques. |
+
+> ✨ *Grouping notebooks into folders like `/Cleaning/`, `/Visualization/`, `/Modeling/`, and `/Projects/` is recommended.*
+
+
+
+##  How to Run This Repository
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AndresCalzada12/Intrduccion-a-Ciencia-de-Datos.git
+   ```
+2. Open notebooks with Jupyter:
+   ```bash
+   jupyter notebook
+   ```
+
+> It is recommended to use a virtual environment and install required packages (`pandas`, `matplotlib`, etc.).
+
+---
+
+##  Author
+
+**Andres Geovani Calzada Jasso**  
+Master’s in Computer Science  
+Interested in Data Science applied to Health and Medicine
+
+---
+
+## 📌 Final Notes
+
+This repository represents my learning process and the consolidation of my knowledge in data science. You can browse each notebook individually to explore the approaches I applied in various analytical contexts.
