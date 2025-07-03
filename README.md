@@ -26,13 +26,14 @@ Mostrar de forma estructurada y profesional las competencias adquiridas durante 
 
 | Carpeta o Notebook | Descripción |
 |--------------------|-------------|
-| `Calidad_y_Limpieza_Datos.ipynb` | Limpieza y transformación de datos. |
-| `Visualizacion_Exploratoria.ipynb` | Análisis visual con Matplotlib y Seaborn. |
-| `Estadistica_inferencial.ipynb` | Pruebas estadísticas e inferencia. |
-| `Modelos_de_Regresion.ipynb` | Múltiples tipos de regresión en contextos reales. |
-| `Analisis_PCA_Clustering.ipynb` | Reducción de dimensionalidad y agrupamiento no supervisado. |
-| `Modelos_de_Clasificacion.ipynb` | Árboles, regresión logística, y k-NN aplicados. |
-| `Deep Learning project` | Proyecto integrador aplicando todo lo anterior. |
+| `Clasificación con Modelos` | Uso de modelos de aprendizaje de máquina y meta modelos para clasificación. |
+| `Visualizacion Exploratoria.` | Análisis visual con Matplotlib y Seaborn. |
+| `Análisis de Datos` | Análisis de datos para clasificación y visualización por medio de PCA y t-SNE. |
+| `Limpieza de datos` | Uso de diferentes herramientas para limpieza de datos para un corrscto uso de modelos de ML. |
+| `Análisis exploratorio` | Análisis exploratorio de los datos para conocer que tipo de análisis y técnicas pueden ser usadas para resultados optimos. |
+| `Regresión lineal` | Uso de análisis exploratorio de datos para aplicación de regresión logistica y conocer si la predicción correcta de modelos. |
+| `Proyecto de Deep Learning` | Proyecto integrador aplicando todo lo anterior. |
+| `Proyecto / brain_tumor`| Conjunto de datos de imágenes para Deep Learning project.|
 
 >  *Se recomienda agrupar los notebooks en carpetas como `/Limpieza/`, `/Visualización/`, `/Modelado/` y `/Proyectos/`.*
 
