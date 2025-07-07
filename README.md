@@ -35,23 +35,6 @@ Mostrar de forma estructurada y profesional las competencias adquiridas durante 
 | `Proyecto de Deep Learning` | Proyecto integrador aplicando todo lo anterior. |
 | `Proyecto / brain_tumor`| Conjunto de datos de imágenes para Deep Learning project.|
 
->  *Se recomienda agrupar los notebooks en carpetas como `/Limpieza/`, `/Visualización/`, `/Modelado/` y `/Proyectos/`.*
-
-
----
-
-##  Cómo ejecutar este repositorio
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/AndresCalzada12/Intrduccion-a-Ciencia-de-Datos.git
-   ```
-2. Abre los notebooks con Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-
-> Se recomienda crear un entorno virtual e instalar los requerimientos necesarios (`pandas`, `matplotlib`, etc.).
 
 ---
 
@@ -93,36 +76,21 @@ This repository is a structured and professional showcase of the skills I acquir
 
 ---
 
-##  Repository Structure
 
-| Folder or Notebook | Description |
-|--------------------|-------------|
-| `1_Calidad_y_Limpieza_Datos.ipynb` | Data cleaning and transformation. |
-| `2_Visualizacion_Exploratoria.ipynb` | Exploratory visualization with Matplotlib and Seaborn. |
-| `3_Estadistica_inferencial.ipynb` | Statistical inference and hypothesis testing. |
-| `4_Modelos_de_Regresion.ipynb` | Different types of regression models. |
-| `5_Analisis_PCA_Clustering.ipynb` | Dimensionality reduction and unsupervised clustering. |
-| `6_Modelos_de_Clasificacion.ipynb` | Logistic regression, decision trees, k-NN, etc. |
-| `7_Proyecto_Final.ipynb` | Final project integrating all previous techniques. |
+## Repository Structure
 
-> ✨ *Grouping notebooks into folders like `/Cleaning/`, `/Visualization/`, `/Modeling/`, and `/Projects/` is recommended.*
+| Folder or Notebook               | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| `Classification with Models`     | Application of machine learning models and meta-models for classification tasks. |
+| `Exploratory Visualization`      | Visual analysis using Matplotlib and Seaborn.                              |
+| `Data Analysis`                  | Data analysis for classification and visualization using PCA and t-SNE.   |
+| `Data Cleaning`                  | Use of various tools for proper data cleaning to ensure reliable machine learning results. |
+| `Exploratory Data Analysis`      | Exploratory analysis to determine the most suitable techniques for optimal results. |
+| `Linear Regression`              | Application of exploratory data analysis and logistic regression to evaluate model prediction accuracy. |
+| `Deep Learning Project`          | Integrative project applying all previously developed concepts.            |
+| `Project / brain_tumor`          | Image dataset used for a deep learning project.                            |
 
 
-
-##  How to Run This Repository
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AndresCalzada12/Intrduccion-a-Ciencia-de-Datos.git
-   ```
-2. Open notebooks with Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-
-> It is recommended to use a virtual environment and install required packages (`pandas`, `matplotlib`, etc.).
-
----
 
 ##  Author
 
